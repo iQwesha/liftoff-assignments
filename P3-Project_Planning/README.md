@@ -15,5 +15,4 @@ Include at least 3 wireframes here, adding images or files to your repository as
 https://trello.com/b/gZNWTUM8/college-affordability-app
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+https://github.com/iQwesha/cachemoneycollege.git
